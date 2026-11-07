@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ORVYTHMC",
+    "username": "AFK_Bot_Quartz",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "DarkZyroxback"
+      "password": "seaster"
     },
     "anti-afk": {
       "enabled": true,
